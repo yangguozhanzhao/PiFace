@@ -1,2 +1,5 @@
 /weights
 *.pyc
+*.jpg
+/images
+/model
